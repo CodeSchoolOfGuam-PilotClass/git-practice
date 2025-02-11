@@ -1,0 +1,1 @@
+puts "Africa has many resources"
